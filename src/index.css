@@ -1,0 +1,16 @@
+.heading{
+    text-align  : center;
+    text-transform: uppercase;
+}
+.todo-tabs>ul{
+    list-style: none;
+}
+.strike{
+    text-decoration: line-through;
+}
+.todo-items>li{
+    list-style: none;
+}
+.todo-items{
+    padding:1em 0 0.5em 5em;
+}
